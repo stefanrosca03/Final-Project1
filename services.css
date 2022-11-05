@@ -83,8 +83,8 @@
     background-position: 0 100%;
   }
   .card:hover .icon-wrapper {
-    background-color: #ffffff;
-    color: #2c7bfe;
+    background: transparent;
+    background: transparent;
   }
   .card:hover h3 {
     color: #ffffff;
@@ -108,8 +108,8 @@
     .column {
       flex: 0 0 33.33%;
       max-width: 33.33%;
-    }
-  }* {
+    } 
+  }*{ 
     padding: 0;
     margin: 0;
     box-sizing: border-box;
